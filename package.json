@@ -1,0 +1,23 @@
+{
+  "name": "lab-car",
+  "version": "1.0.0",
+  "description": "Maquetado lab-car",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrilu7/Lab-car.git"
+  },
+  "author": "Luz adriana herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrilu7/Lab-car/issues"
+  },
+  "homepage": "https://github.com/adrilu7/Lab-car#readme",
+  "dependencies": {
+    "eslint": "^5.4.0",
+    "htmlhint": "^0.9.13"
+  }
+}
